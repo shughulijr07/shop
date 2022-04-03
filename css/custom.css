@@ -1,0 +1,19 @@
+.bgpanel{
+    background:url(../image/bg2.jpg);
+    min-height:535px;
+}
+
+.jisajirifomu{
+    background:url(../image/reg3.jpg);  
+}
+
+.jisajirifomu{
+    border-color:#eee;
+    font-style: bold;
+    padding:20px;
+    font: 16px "Century Gothic", "Times Roman", sans-serif;
+    }
+
+body{
+    min-height:535px;
+}
